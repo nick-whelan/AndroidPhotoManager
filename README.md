@@ -12,6 +12,7 @@ A Android application to manage several users photo albums.
 
 ### Albums Screen
 ![Album Screen](https://i.imgur.com/1Gr6uyG.png)
+<img src="https://i.imgur.com/1Gr6uyG.png" width="384" height="640">
 
 ### Album View
 ![In Album Screen](https://i.imgur.com/5KqaBmP.png)
