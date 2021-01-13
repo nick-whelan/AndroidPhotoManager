@@ -11,11 +11,10 @@ A Android application to manage several users photo albums.
 # Screenshots
 
 ### Albums Screen
-![Album Screen](https://i.imgur.com/1Gr6uyG.png)
 <img src="https://i.imgur.com/1Gr6uyG.png" width="384" height="640">
 
 ### Album View
-![In Album Screen](https://i.imgur.com/5KqaBmP.png)
+<img src="https://i.imgur.com/5KqaBmP.png" width="384" height="640">
 
 ### Slideshow
-![Slideshow Screen](https://i.imgur.com/IiThPiu.png)
+<img src="https://i.imgur.com/IiThPiu.png" width="384" height="640">
